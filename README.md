@@ -10,7 +10,7 @@ Flick 是一个桌面 AI 助手。选中文字后按 **Ctrl+Shift+E**，选择�
 - 设置保存在 `%LocalAppData%\\Flick\\settings.json`
 
 ## 使用方法
-1. 下载 `sha256:5d719c816639f674c5be0d1a1f37e19079bfe48c01fb8a86f6b092bc67788980` 并运行。
+1. 下载压缩包解压并运行。
 2. 点击“设置”，填写 API Base URL、API Key 和模型名称。
 3. 在任意应用选中文字，按 Ctrl+Shift+E，然后选择操作。
 
